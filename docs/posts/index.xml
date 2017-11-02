@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Giving Thought</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Giving Thought</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Jacob F Harrell</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 22:12:06 -0500</lastBuildDate>
+    <atom:link href="/posts/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 01 Nov 2017 22:12:06 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+
+&lt;p&gt;This is my first post.&lt;/p&gt;
+
+&lt;p&gt;My name is Jacob F Harrell and I am a student of life.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
