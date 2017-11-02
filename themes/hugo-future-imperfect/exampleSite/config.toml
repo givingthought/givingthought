@@ -1,21 +1,20 @@
-publishDir = "docs"
 baseurl = "/"
 languageCode = "en-us"
-title = "Student of Life"
+title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-# disqusShortname = "shortname"
+disqusShortname = "shortname"
 googleAnalytics = ""
 pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "Jacob F Harrell's personal place on the Web"
+  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Giving Thought"
+  navbarTitle          = "Future Imperfect"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/post/"
+  viewMorePostLink     = "/blog/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
@@ -60,11 +59,11 @@ pluralizeListTitles = false
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "Giving Thought"
+  header    = "Hugo Future Imperfect"
 
-  paragraph = "Welcome to Jacob F Harrell's little slice of awesome on the Web.  Sit back, relax and enjoy some sweet sweet content"
+  paragraph = "Another fine responsive site template by <a href=\"http://html5up.net\">HTML5 UP</a>. Ported by Julio Pescador with some extra goodies <i class='fa fa-hand-peace-o'></i>"
 
-  about     = "Randomly Generated Text to show formatting! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -75,7 +74,7 @@ pluralizeListTitles = false
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
-    alt       = "Giving Thought"
+    alt       = "Hugo Future Imperfect"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
@@ -97,7 +96,7 @@ pluralizeListTitles = false
 
 [[menu.main]]
   name = "Blog"
-  url = "/post/"
+  url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
@@ -124,43 +123,43 @@ pluralizeListTitles = false
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github          = "givingthought"
-  # gitlab          = ""
-  # stackoverflow   = "" # User Number
-  # bitbucket       = ""
-  # jsfiddle        = ""
-  # codepen         = ""
+  github          = "jpescador/hugo-future-imperfect"
+  gitlab          = ""
+  stackoverflow   = "" # User Number
+  bitbucket       = ""
+  jsfiddle        = ""
+  codepen         = ""
   # Visual Art Communities
-  # deviantart      = ""
-  # flickr          = "example"
-  # behance         = ""
-  # dribbble        = ""
+  deviantart      = ""
+  flickr          = "example"
+  behance         = ""
+  dribbble        = ""
   # Publishing Communities
-  # wordpress       = ""
-  # medium          = ""
+  wordpress       = ""
+  medium          = ""
   # Professional/Business Oriented Communities
-  # linkedin        = "example"
-  # foursquare      = ""
-  # xing            = ""
-  # slideshare      = ""
+  linkedin        = "example"
+  foursquare      = ""
+  xing            = ""
+  slideshare      = ""
   # Social Networks
-  # facebook        = "example"
-  # googleplus      = ""
-  # reddit          = "example"
-  # quora           = ""
-  # youtube         = ""
-  # vimeo           = ""
-  # whatsapp        = "" # WhatsApp Number
+  facebook        = "example"
+  googleplus      = ""
+  reddit          = "example"
+  quora           = ""
+  youtube         = ""
+  vimeo           = ""
+  whatsapp        = "" # WhatsApp Number
     # WeChat and QQ need testing.
-    # wechat          = ""
-    # qq              = "" # User ID Number
-  instagram       = "givingthought"
-  # tumblr          = ""
-  twitter         = "givingthought"
-  # skype           = ""
-  # snapchat        = ""
-  # pinterest       = ""
-  # telegram        = ""
-  # vine            = ""
+    wechat          = ""
+    qq              = "" # User ID Number
+  instagram       = "example"
+  tumblr          = ""
+  twitter         = "example"
+  skype           = ""
+  snapchat        = ""
+  pinterest       = "example"
+  telegram        = "example"
+  vine            = ""
   # Email
-  email           = "jake@givingthought.com"
+  email           = "example"
